@@ -455,6 +455,6 @@ Mistral insights depend on the locally running Ollama model and the quality of t
 
 **Tejvir Singh Grewal**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering,
 Thapar Institute of Engineering & Technology
 
